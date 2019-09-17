@@ -15,6 +15,15 @@ body {
   background-repeat: no-repeat;
 }
 
+.inner-page {
+  color: #000;
+
+  background-color: #f9f6f3;
+  background-image: url("/img/pattern-light.jpg");
+  position: 0 0;
+  background-repeat: repeat;
+}
+
 a {
   text-decoration: none;
 }
@@ -131,3 +140,69 @@ a {
 .footer-contacts a:focus {
   text-decoration: none;
 }
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.social-button {
+  color: #fff;
+}
+
+.footer-copyright {
+  text-align: center;
+}
+
+.footer-copyright .button:hover,
+.footer-copyright .button:focus {
+  color: #000;
+
+  background-color: #fff;
+}
+
+.modal {
+  color: #000;
+
+  background-color: #f8f5f2;
+  background-image: url("/img/pattern-light.jpg");
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+.modal h2 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  font: inherit;
+
+  background-color: #f9f6f3;
+  border: 2px solid #000;
+}
+
+.login-form input:focus {
+  border-color: #663d15;
+}
+
+.login-checkbox:hover,
+.login-checkbox:focus {
+  color: #663d15;
+}
+
+.restore {
+  color: #000;
+  text-decoration: underline;
+}
+
+.restore:hover, 
+.restore:focus {
+  text-decoration: none;
+}
+
+

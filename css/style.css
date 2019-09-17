@@ -10,7 +10,7 @@ body {
   text-transform: uppercase;
 
   background-color: #000;
-  background-image: url('/img/layer.jpg');
+  background-image: url("/img/layer.jpg");
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -46,4 +46,27 @@ a {
 
 .features-list {
   list-style: none;
+}
+
+.feature-item {
+  text-align: center;
+}
+
+.feature-item h3 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.index-columns {
+  color: #000;
+
+  background-color: #f8f5f2;
+  background-image: url("/img/pattern-light.jpg");
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+.index-columns h2 {
+  font-size: 30px;
+  line-height: 42px;
 }

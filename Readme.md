@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Александр Колтович](https://up.htmlacademy.ru/htmlcss/26/user/1039795).
+* Студент: [Александр Колтович](https://up.htmlacademy.ru/htmlcss/26/user/1039795)
 
 ---
 
